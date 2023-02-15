@@ -7,7 +7,7 @@ function Footer()
         <Stack gpa = "40px"  alignItems="center">
             <img src={Logo} alt = "logo" width = "200px" height="50px"/>
             <Typography variant = "h5" mt = "20px" p = "40px">
-                Made With 💙 by Subrat
+                Made With 💙 by Tausif
             </Typography>
         </Stack>
     </Box>
